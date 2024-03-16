@@ -1,0 +1,4 @@
+#Sun Mar 17 00:35:49 CAT 2024
+base.0=/Users/mohammedyasir/VSCode projects/hive_to_do_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
